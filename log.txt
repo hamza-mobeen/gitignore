@@ -1,1 +1,2 @@
 0078. ♻️ chore: update .gitignore
+0196. ♻️ chore: bump dependencies
