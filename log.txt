@@ -1,3 +1,4 @@
 0078. ♻️ chore: update .gitignore
 0196. ♻️ chore: bump dependencies
 0583. ✅ test: increase coverage on auth module
+0847. ♻️ chore: clean up unused files
