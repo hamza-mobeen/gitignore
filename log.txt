@@ -2,3 +2,4 @@
 0196. ♻️ chore: bump dependencies
 0583. ✅ test: increase coverage on auth module
 0847. ♻️ chore: clean up unused files
+0725. 🚀 perf: lazy-load components
