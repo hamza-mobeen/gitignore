@@ -13,3 +13,4 @@
 0576. ♻️ chore: update .gitignore
 0802. 🔧 refactor: remove redundant code blocks
 0524. ♻️ chore: rename env.example
+0900. 🐛 fix: handle 500 error in quiz API
