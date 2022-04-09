@@ -14,3 +14,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0524. ♻️ chore: rename env.example
 0900. 🐛 fix: handle 500 error in quiz API
+0739. 🎨 style: remove trailing whitespace
