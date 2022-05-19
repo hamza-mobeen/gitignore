@@ -20,3 +20,4 @@
 0521. 🎨 style: standardize quote style
 0447. ♻️ chore: bump dependencies
 0218. 🔧 refactor: clean up auth middleware
+0028. 🎨 style: standardize quote style
