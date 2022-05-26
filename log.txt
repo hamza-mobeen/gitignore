@@ -22,3 +22,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0028. 🎨 style: standardize quote style
 0790. 📚 docs: write FAQ section
+0792. 🎨 style: standardize quote style
