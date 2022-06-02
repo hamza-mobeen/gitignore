@@ -217,3 +217,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0341. 🚀 perf: lazy-load components
 0499. 🎨 style: reformat files with black
+0617. ✨ feat: support email verification
