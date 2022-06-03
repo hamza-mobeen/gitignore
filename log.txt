@@ -23,3 +23,4 @@
 0028. 🎨 style: standardize quote style
 0790. 📚 docs: write FAQ section
 0792. 🎨 style: standardize quote style
+0224. 🐛 fix: fix broken CSS in mobile view
