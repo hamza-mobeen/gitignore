@@ -219,3 +219,4 @@
 0499. 🎨 style: reformat files with black
 0617. ✨ feat: support email verification
 0143. ✨ feat: implement quiz timer feature
+0521. 🎨 style: standardize quote style
