@@ -220,3 +220,4 @@
 0617. ✨ feat: support email verification
 0143. ✨ feat: implement quiz timer feature
 0521. 🎨 style: standardize quote style
+0450. 🐛 fix: fix broken CSS in mobile view
