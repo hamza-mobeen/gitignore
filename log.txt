@@ -29,3 +29,4 @@
 0626. 🎨 style: standardize quote style
 0042. 📚 docs: document token refresh logic
 0954. 🚀 perf: cache repeated calculations
+0673. 🐛 fix: correct typo in registration form
