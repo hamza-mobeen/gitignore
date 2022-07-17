@@ -224,3 +224,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0777. 📚 docs: document token refresh logic
 0995. ✅ test: mock database connection in test suite
+0609. 🐛 fix: handle 500 error in quiz API
