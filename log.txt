@@ -226,3 +226,4 @@
 0995. ✅ test: mock database connection in test suite
 0609. 🐛 fix: handle 500 error in quiz API
 0912. 📚 docs: document token refresh logic
+0644. 🎨 style: apply consistent indentation
