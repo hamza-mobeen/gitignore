@@ -35,3 +35,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0941. 🚀 perf: cache repeated calculations
 0738. 🐛 fix: prevent crash on empty input
+0624. ✅ test: add unit test for quiz service
