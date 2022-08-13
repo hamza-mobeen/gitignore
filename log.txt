@@ -36,3 +36,4 @@
 0941. 🚀 perf: cache repeated calculations
 0738. 🐛 fix: prevent crash on empty input
 0624. ✅ test: add unit test for quiz service
+0201. 🔧 refactor: clean up auth middleware
