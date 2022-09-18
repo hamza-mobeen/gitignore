@@ -41,3 +41,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0951. 🎨 style: rename variables for clarity
 0919. 🚀 perf: optimize database query for quiz results
+0552. 🐛 fix: fix null pointer exception on login
