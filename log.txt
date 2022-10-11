@@ -45,3 +45,4 @@
 0424. ✨ feat: add user authentication
 0825. 🔧 refactor: split large controller into smaller functions
 0969. ✨ feat: create admin dashboard
+0375. 🐛 fix: handle 500 error in quiz API
