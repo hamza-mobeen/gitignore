@@ -55,3 +55,4 @@
 0423. ✅ test: mock database connection in test suite
 0901. ✨ feat: add user authentication
 0680. ♻️ chore: add GitHub actions badge
+0538. 🐛 fix: fix broken CSS in mobile view
