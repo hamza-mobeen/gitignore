@@ -241,3 +241,4 @@
 0119. 📚 docs: improve code comments in utils
 0836. 🚀 perf: optimize database query for quiz results
 0682. ♻️ chore: rename env.example
+0177. 📚 docs: add API usage examples
