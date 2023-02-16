@@ -57,3 +57,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0538. 🐛 fix: fix broken CSS in mobile view
 0982. 🚀 perf: lazy-load components
+0740. 🐛 fix: resolve issue with date parsing
