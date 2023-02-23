@@ -59,3 +59,4 @@
 0982. 🚀 perf: lazy-load components
 0740. 🐛 fix: resolve issue with date parsing
 0356. 📚 docs: write FAQ section
+0492. 🎨 style: remove trailing whitespace
