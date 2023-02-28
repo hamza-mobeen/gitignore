@@ -243,3 +243,4 @@
 0682. ♻️ chore: rename env.example
 0177. 📚 docs: add API usage examples
 0480. ♻️ chore: add GitHub actions badge
+0740. 🐛 fix: resolve issue with date parsing
