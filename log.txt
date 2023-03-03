@@ -61,3 +61,4 @@
 0356. 📚 docs: write FAQ section
 0492. 🎨 style: remove trailing whitespace
 0318. 🔧 refactor: refactor quiz grading logic
+0649. 📚 docs: update README with setup steps
