@@ -244,3 +244,4 @@
 0177. 📚 docs: add API usage examples
 0480. ♻️ chore: add GitHub actions badge
 0740. 🐛 fix: resolve issue with date parsing
+0761. ✅ test: add unit test for quiz service
