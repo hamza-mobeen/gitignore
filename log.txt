@@ -253,3 +253,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0772. 🐛 fix: fix null pointer exception on login
 0312. ✨ feat: add user authentication
+0703. 🔧 refactor: clean up auth middleware
