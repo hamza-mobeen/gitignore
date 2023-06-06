@@ -72,3 +72,4 @@
 0769. ✨ feat: create admin dashboard
 0569. 📚 docs: document token refresh logic
 0275. 🎨 style: standardize quote style
+0801. ✨ feat: enable dark mode toggle
