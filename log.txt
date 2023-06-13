@@ -258,3 +258,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0271. ✅ test: add unit test for quiz service
 0080. ✨ feat: support email verification
+0959. 🐛 fix: fix null pointer exception on login
