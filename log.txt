@@ -75,3 +75,4 @@
 0801. ✨ feat: enable dark mode toggle
 0793. 📚 docs: clarify environment setup
 0800. 🚀 perf: optimize database query for quiz results
+0599. ✅ test: test user registration edge cases
