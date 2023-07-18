@@ -78,3 +78,4 @@
 0599. ✅ test: test user registration edge cases
 0013. ✅ test: increase coverage on auth module
 0712. 🎨 style: apply consistent indentation
+0380. 🐛 fix: fix null pointer exception on login
