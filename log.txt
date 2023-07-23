@@ -266,3 +266,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0780. 📚 docs: add API usage examples
 0438. ♻️ chore: bump dependencies
+0361. ✨ feat: support email verification
