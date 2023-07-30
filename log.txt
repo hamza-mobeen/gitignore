@@ -268,3 +268,4 @@
 0438. ♻️ chore: bump dependencies
 0361. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
+0362. 📚 docs: add API usage examples
