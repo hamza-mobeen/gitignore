@@ -81,3 +81,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0912. 📚 docs: document token refresh logic
 0869. ♻️ chore: bump dependencies
+0860. 🔧 refactor: organize models into subfolders
