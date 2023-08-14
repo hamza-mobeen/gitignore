@@ -82,3 +82,4 @@
 0912. 📚 docs: document token refresh logic
 0869. ♻️ chore: bump dependencies
 0860. 🔧 refactor: organize models into subfolders
+0291. 📚 docs: write FAQ section
