@@ -83,3 +83,4 @@
 0869. ♻️ chore: bump dependencies
 0860. 🔧 refactor: organize models into subfolders
 0291. 📚 docs: write FAQ section
+0062. ♻️ chore: update .gitignore
