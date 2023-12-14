@@ -97,3 +97,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0219. ✅ test: increase coverage on auth module
 0010. ✨ feat: add user authentication
+0644. 🎨 style: apply consistent indentation
