@@ -98,3 +98,4 @@
 0219. ✅ test: increase coverage on auth module
 0010. ✨ feat: add user authentication
 0644. 🎨 style: apply consistent indentation
+0907. 🔧 refactor: split large controller into smaller functions
