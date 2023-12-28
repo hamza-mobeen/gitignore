@@ -100,3 +100,4 @@
 0644. 🎨 style: apply consistent indentation
 0907. 🔧 refactor: split large controller into smaller functions
 0431. 🎨 style: reformat files with black
+0193. 🚀 perf: optimize database query for quiz results
