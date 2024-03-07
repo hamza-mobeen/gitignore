@@ -293,3 +293,4 @@
 0863. 🐛 fix: correct typo in registration form
 0757. 🔧 refactor: remove redundant code blocks
 0417. 🎨 style: rename variables for clarity
+0328. 🐛 fix: resolve issue with date parsing
