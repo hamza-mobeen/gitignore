@@ -303,3 +303,4 @@
 0284. ✨ feat: implement quiz timer feature
 0672. 🐛 fix: fix broken CSS in mobile view
 0419. 🎨 style: remove trailing whitespace
+0641. 📚 docs: write FAQ section
