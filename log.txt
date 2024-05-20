@@ -113,3 +113,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0242. ♻️ chore: clean up unused files
 0512. 🚀 perf: reduce image load time
+0493. ✨ feat: add user authentication
