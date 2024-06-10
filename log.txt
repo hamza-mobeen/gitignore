@@ -305,3 +305,4 @@
 0419. 🎨 style: remove trailing whitespace
 0641. 📚 docs: write FAQ section
 0505. ♻️ chore: add GitHub actions badge
+0807. 🔧 refactor: remove redundant code blocks
