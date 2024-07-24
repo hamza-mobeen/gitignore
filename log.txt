@@ -117,3 +117,4 @@
 0326. 🚀 perf: cache repeated calculations
 0675. 🔧 refactor: organize models into subfolders
 0840. 🔧 refactor: refactor quiz grading logic
+0678. ✨ feat: add user authentication
