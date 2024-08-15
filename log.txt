@@ -313,3 +313,4 @@
 0357. ✅ test: add unit test for quiz service
 0779. 🔧 refactor: organize models into subfolders
 0477. 🐛 fix: fix broken CSS in mobile view
+0979. 🎨 style: standardize quote style
