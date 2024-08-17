@@ -119,3 +119,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0678. ✨ feat: add user authentication
 0017. ✅ test: mock database connection in test suite
+0936. 🔧 refactor: organize models into subfolders
