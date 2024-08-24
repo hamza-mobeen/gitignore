@@ -120,3 +120,4 @@
 0678. ✨ feat: add user authentication
 0017. ✅ test: mock database connection in test suite
 0936. 🔧 refactor: organize models into subfolders
+0953. 🎨 style: remove trailing whitespace
