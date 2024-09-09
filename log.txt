@@ -122,3 +122,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0953. 🎨 style: remove trailing whitespace
 0830. 🎨 style: apply consistent indentation
+0027. 📚 docs: clarify environment setup
