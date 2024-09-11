@@ -316,3 +316,4 @@
 0979. 🎨 style: standardize quote style
 0705. 🔧 refactor: refactor quiz grading logic
 0902. ✨ feat: enable dark mode toggle
+0788. 📚 docs: add API usage examples
