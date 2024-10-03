@@ -323,3 +323,4 @@
 0424. ✨ feat: add user authentication
 0600. 🐛 fix: prevent crash on empty input
 0387. ✨ feat: enable dark mode toggle
+0769. ✨ feat: create admin dashboard
