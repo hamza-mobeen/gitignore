@@ -331,3 +331,4 @@
 0379. ✨ feat: support email verification
 0401. 🚀 perf: reduce image load time
 0950. 🎨 style: reformat files with black
+0209. ✨ feat: implement quiz timer feature
