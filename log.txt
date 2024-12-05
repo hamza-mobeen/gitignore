@@ -334,3 +334,4 @@
 0209. ✨ feat: implement quiz timer feature
 0487. 🎨 style: reformat files with black
 0122. ✨ feat: support email verification
+0285. 🐛 fix: resolve issue with date parsing
