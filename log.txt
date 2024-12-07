@@ -133,3 +133,4 @@
 0204. 🎨 style: standardize quote style
 0731. 🎨 style: standardize quote style
 0467. ✅ test: add integration test for /submit endpoint
+0689. 🎨 style: reformat files with black
