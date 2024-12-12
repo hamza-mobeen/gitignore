@@ -335,3 +335,4 @@
 0487. 🎨 style: reformat files with black
 0122. ✨ feat: support email verification
 0285. 🐛 fix: resolve issue with date parsing
+0241. 📚 docs: add API usage examples
