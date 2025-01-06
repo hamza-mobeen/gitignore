@@ -342,3 +342,4 @@
 0513. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
 0681. ✨ feat: create admin dashboard
+0250. 📚 docs: update README with setup steps
