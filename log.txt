@@ -137,3 +137,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0961. 📚 docs: add API usage examples
 0351. ✨ feat: add export to CSV option
+0457. 🐛 fix: handle 500 error in quiz API
