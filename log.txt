@@ -146,3 +146,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0717. 🔧 refactor: refactor quiz grading logic
 0179. 🔧 refactor: split large controller into smaller functions
+0305. ✨ feat: enable dark mode toggle
