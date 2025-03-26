@@ -148,3 +148,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0305. ✨ feat: enable dark mode toggle
 0043. ✅ test: add integration test for /submit endpoint
+0994. 🚀 perf: reduce image load time
