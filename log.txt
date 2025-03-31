@@ -150,3 +150,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0994. 🚀 perf: reduce image load time
 0442. 🎨 style: standardize quote style
+0354. 📚 docs: add API usage examples
