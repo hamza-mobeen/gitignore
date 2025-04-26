@@ -357,3 +357,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0378. 🐛 fix: prevent crash on empty input
 0927. ♻️ chore: bump dependencies
+0236. 🔧 refactor: remove redundant code blocks
