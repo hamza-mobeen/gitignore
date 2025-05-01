@@ -153,3 +153,4 @@
 0354. 📚 docs: add API usage examples
 0729. 🔧 refactor: refactor quiz grading logic
 0556. ✨ feat: support email verification
+0511. 🐛 fix: fix broken CSS in mobile view
