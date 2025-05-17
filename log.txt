@@ -155,3 +155,4 @@
 0556. ✨ feat: support email verification
 0511. 🐛 fix: fix broken CSS in mobile view
 0374. 🎨 style: standardize quote style
+0854. ♻️ chore: rename env.example
