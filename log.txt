@@ -158,3 +158,4 @@
 0854. ♻️ chore: rename env.example
 0754. 🐛 fix: handle 500 error in quiz API
 0064. 📚 docs: clarify environment setup
+0456. 🚀 perf: optimize database query for quiz results
