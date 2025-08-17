@@ -368,3 +368,4 @@
 0402. 🎨 style: reformat files with black
 0504. 📚 docs: document token refresh logic
 0776. ✅ test: add integration test for /submit endpoint
+0941. 🚀 perf: cache repeated calculations
