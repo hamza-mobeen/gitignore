@@ -172,3 +172,4 @@
 0794. ♻️ chore: clean up unused files
 0632. 🎨 style: remove trailing whitespace
 0765. ♻️ chore: clean up unused files
+0503. ♻️ chore: rename env.example
