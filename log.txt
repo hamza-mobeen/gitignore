@@ -369,3 +369,4 @@
 0504. 📚 docs: document token refresh logic
 0776. ✅ test: add integration test for /submit endpoint
 0941. 🚀 perf: cache repeated calculations
+0589. 🐛 fix: fix broken CSS in mobile view
