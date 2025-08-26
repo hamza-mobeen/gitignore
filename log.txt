@@ -370,3 +370,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0941. 🚀 perf: cache repeated calculations
 0589. 🐛 fix: fix broken CSS in mobile view
+0596. ♻️ chore: update .gitignore
