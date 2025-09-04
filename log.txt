@@ -371,3 +371,4 @@
 0941. 🚀 perf: cache repeated calculations
 0589. 🐛 fix: fix broken CSS in mobile view
 0596. ♻️ chore: update .gitignore
+0162. ♻️ chore: add GitHub actions badge
