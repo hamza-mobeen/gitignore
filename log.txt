@@ -178,3 +178,4 @@
 0312. ✨ feat: add user authentication
 0184. 📚 docs: improve code comments in utils
 0920. 🔧 refactor: organize models into subfolders
+0175. 📚 docs: add API usage examples
