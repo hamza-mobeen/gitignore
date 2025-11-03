@@ -376,3 +376,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0115. 🚀 perf: reduce image load time
 0728. 🔧 refactor: split large controller into smaller functions
+0051. ✨ feat: enable dark mode toggle
