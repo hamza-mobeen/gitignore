@@ -378,3 +378,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0051. ✨ feat: enable dark mode toggle
 0342. 🚀 perf: cache repeated calculations
+0584. 🚀 perf: lazy-load components
