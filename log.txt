@@ -184,3 +184,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0924. ✅ test: mock database connection in test suite
 0810. 🔧 refactor: refactor quiz grading logic
+0024. 📚 docs: write FAQ section
