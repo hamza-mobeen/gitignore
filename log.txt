@@ -186,3 +186,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0024. 📚 docs: write FAQ section
 0272. 🔧 refactor: remove redundant code blocks
+0863. 🐛 fix: correct typo in registration form
