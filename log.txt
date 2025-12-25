@@ -390,3 +390,4 @@
 0986. 📚 docs: document token refresh logic
 0307. ✨ feat: support email verification
 0195. 📚 docs: clarify environment setup
+0139. 📚 docs: document token refresh logic
