@@ -190,3 +190,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0788. 📚 docs: add API usage examples
 0053. ✅ test: increase coverage on auth module
+0760. 🐛 fix: resolve issue with date parsing
