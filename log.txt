@@ -192,3 +192,4 @@
 0053. ✅ test: increase coverage on auth module
 0760. 🐛 fix: resolve issue with date parsing
 0892. ✅ test: add unit test for quiz service
+0818. 🔧 refactor: remove redundant code blocks
