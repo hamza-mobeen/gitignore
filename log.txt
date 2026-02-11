@@ -195,3 +195,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0483. 📚 docs: update README with setup steps
 0580. ♻️ chore: bump dependencies
+0115. 🚀 perf: reduce image load time
