@@ -395,3 +395,4 @@
 0594. 🎨 style: reformat files with black
 0924. ✅ test: mock database connection in test suite
 0171. 🐛 fix: fix broken CSS in mobile view
+0247. 🎨 style: apply consistent indentation
